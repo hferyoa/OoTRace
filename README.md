@@ -16,6 +16,7 @@ N.B. It's recommended to open this project within [Obsidian](https://obsidian.md
 6. To complete the game, players must complete the main story (up to and including defeating Ganon), as well as a number of tasks outlined in [[README#2. Additional Tasks to be Completed|§2.]].
 7. The race concludes for a player once the cutscene where Link kills Ganon begins playing, or once they complete their last task; whichever comes last after both the main story and the additional tasks have been completed.
 8. The completion of the game, as well as the specified tasks that players must complete, _must_ be done "in-logic". For example, players must get the Lens of Truth {LoT} before crossing the desert; even if they're able to run the desert route without using the LoT.
+9. _Only_ the player who comes last may practice for the next year's race, and not within 6 months of the race. For instance, George came last in 2024, so he may practice for the 2025 race, but not within 6 months of the 2025 race.
 
 # 2. Additional Tasks to be Completed
 1. There are a number of additional items that _must_ be acquired before a run can be considered complete, in additional to the basic items required to complete the game within logic.

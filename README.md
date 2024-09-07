@@ -53,7 +53,7 @@ N.B. It's recommended to open this project within [Obsidian](https://obsidian.md
 		2. Grotto skipping to hand off the Bunny Hood quicker. ^36d688
 			1. This requires no specialist knowledge and/or set up to execute consistently.
 2. Techniques or glitches that leave the gameplay unrecognisable from the spirit of the game are banned.
-	0. Examples of this include:
+	1. Examples of this include:
 		1. Infinite Sword Glitching (ISG)
 		2. Wrong Warping
 		3. Exploiting vulnerabilities to lead to Remote Code Execution (RCE)

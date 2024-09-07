@@ -1,4 +1,6 @@
-Below are the rules for the yearly Ocarina of Time {OoT} Race that Anthony, Chris, George, and Nick participate in.
+Within are the rules for the yearly Ocarina of Time {OoT} Race that Anthony, Chris, George, and Nick participate in.
+
+N.B. It's recommended to open this project within [Obsidian](https://obsidian.md); Github's flavour of [markdown](https://github.github.com/gfm) is shit for relative links (it'll show them as `[[README#$link here]]` rather than the link to the correct section/line.
 
 # 1. Basic Rules
 1.  All participants _must_ livestream their gameplay **to Youtube**.
@@ -6,8 +8,7 @@ Below are the rules for the yearly Ocarina of Time {OoT} Race that Anthony, Chri
 	1. This will be agreed upon for each individual race until SoH has a version that's in a stable state with all QoL features that work for us.
 3. All participants _must_ be playing with the same type (vanilla or rando) and version of the OoT ROM.
 	1. This will be agreed upon for each individual race until we determine a specific ROM works for us and is stable enough to not cause issues during the race.
-	2. If a rando ROM is chosen for that year's race, items _must_ be acquired in the order they're allowed to appear in the vanilla game. See [§2.1.1.0](README#^679b7b)
-	3. [[README#^679b7b|§2.1.1.0.]] for an example.
+	2. If a rando ROM is chosen for that year's race, items _must_ be acquired in the order they're allowed to appear in the vanilla game. See [[README#^679b7b|§2.1.1.0.]] for an example.
 4. All players _must_ have the same settings that affect gameplay set on their SoH. If an export of settings is possible, it's probably worth doing so and sharing that settings file so everyone has the same settings.
 	1. Cosmetic settings _are_ allowed to be changed.
 	2. Overlays (for instance with an input tracker) _are_ allowed.

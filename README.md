@@ -6,7 +6,8 @@ Below are the rules for the yearly Ocarina of Time {OoT} Race that Anthony, Chri
 	1. This will be agreed upon for each individual race until SoH has a version that's in a stable state with all QoL features that work for us.
 3. All participants _must_ be playing with the same type (vanilla or rando) and version of the OoT ROM.
 	1. This will be agreed upon for each individual race until we determine a specific ROM works for us and is stable enough to not cause issues during the race.
-	2. If a rando ROM is chosen for that year's race, items _must_ be acquired in the order they're allowed to appear in the vanilla game. See [[README#^679b7b|§2.1.1.0.]] for an example.
+	2. If a rando ROM is chosen for that year's race, items _must_ be acquired in the order they're allowed to appear in the vanilla game. See [§2.1.1.0](README#^679b7b)
+	3. [[README#^679b7b|§2.1.1.0.]] for an example.
 4. All players _must_ have the same settings that affect gameplay set on their SoH. If an export of settings is possible, it's probably worth doing so and sharing that settings file so everyone has the same settings.
 	1. Cosmetic settings _are_ allowed to be changed.
 	2. Overlays (for instance with an input tracker) _are_ allowed.
@@ -18,16 +19,16 @@ Below are the rules for the yearly Ocarina of Time {OoT} Race that Anthony, Chri
 # 2. Additional Tasks to be Completed
 1. There are a number of additional items that _must_ be acquired before a run can be considered complete, in additional to the basic items required to complete the game within logic.
 	1. The Three Great Fairy Magics
-		0. When using a rando ROM, players _must not_ acquire any of these before acquiring the magic meter ^679b7b
+			When using a rando ROM, players _must not_ acquire any of these before acquiring the magic meter ^679b7b
 		1. Din's Fire
 		2. Farore's Wind
 		3. Nayru's Love
-	2. The Three Elemental Arrows
+	3. The Three Elemental Arrows
 		1. Fire Arrows
 		2. Ice Arrows
 		3. Light Arrows
-	3. Biggoron's Sword
-	4. The Mask of Truth
+	4. Biggoron's Sword
+	5. The Mask of Truth
 2. There are also a number of additional side quests that _must_ be completed before a run can be considered complete.
 	1. Obtaining Epona
 		1. When using a rando ROM, players _must_ jump the fences on Epona before speaking to Ingo to begin the race.
@@ -38,7 +39,7 @@ Below are the rules for the yearly Ocarina of Time {OoT} Race that Anthony, Chri
 			3. Taking the Eyedrops to Biggoron
 		2. Similarly, players are _not_ allowed to warp for those portions of the quest, as this would normally fail that section of the quest.
 	3. Happy Mask Shop
-		1. Players _are_ allowed to use the grotto skip to hand off the Bunny Hood quicker. (see [[README#^36d688|§2.1.2.2.]])
+		1. Players _are_ allowed to use the grotto skip to hand off the Bunny Hood quicker. (see [[README#^36d688|§3.1.2.2.]])
 
 # 3. Gentlemen's Agreements
 1. Techniques or glitches that require specialist knowledge or setup to execute consistently are banned.
